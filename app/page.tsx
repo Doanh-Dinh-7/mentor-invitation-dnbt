@@ -161,7 +161,7 @@ export default function PythonMentorInvitation() {
                 <Heart className="w-6 h-6 text-red-500 animate-pulse" />
                 <span className="text-4xl">💻</span>
               </div>
-              <h1 className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 mb-2 p-5">
+              <h1 className="text-[2.8rem] font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 mb-2 p-5">
                 ĐOÀN NGỌC BẢO TRÂN
               </h1>
             </div>
